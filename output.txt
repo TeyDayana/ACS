@@ -1,0 +1,22 @@
+Filled container:
+Container contains 20 elements.
+1: It is Rectangle. Left top point: x = 19, y = 20. Right bottom point: x = 17, y = 10. Perimeter = 24.000000. Color: red
+2: It is Triangle. A-point: x = 17, y = 6. B-point: x = 6, y = 13. C-point: x = 20, y = 7. Perimeter = 31.432229. Color: yellow
+3: It is Rectangle. Left top point: x = 12, y = 11. Right bottom point: x = 7, y = 9. Perimeter = 14.000000. Color: purple
+4: It is Triangle. A-point: x = 7, y = 7. B-point: x = 11, y = 5. C-point: x = 12, y = 1. Perimeter = 16.405491. Color: cyan
+5: It is Circle. Center: x = 9, y = 1. Radius: r = 5. Perimeter = 31.415927. Color: orange
+6: It is Circle. Center: x = 14, y = 2. Radius: r = 18. Perimeter = 113.097336. Color: green
+7: It is Triangle. A-point: x = 4, y = 18. B-point: x = 11, y = 2. C-point: x = 5, y = 3. Perimeter = 38.580308. Color: green
+8: It is Rectangle. Left top point: x = 6, y = 5. Right bottom point: x = 12, y = 17. Perimeter = 36.000000. Color: yellow
+9: It is Rectangle. Left top point: x = 8, y = 14. Right bottom point: x = 20, y = 3. Perimeter = 46.000000. Color: red
+10: It is Triangle. A-point: x = 13, y = 10. B-point: x = 8, y = 5. C-point: x = 4, y = 15. Perimeter = 28.137028. Color: orange
+11: It is Circle. Center: x = 18, y = 1. Radius: r = 5. Perimeter = 31.415927. Color: red
+12: It is Rectangle. Left top point: x = 3, y = 15. Right bottom point: x = 14, y = 14. Perimeter = 24.000000. Color: yellow
+13: It is Rectangle. Left top point: x = 2, y = 15. Right bottom point: x = 7, y = 7. Perimeter = 26.000000. Color: red
+14: It is Circle. Center: x = 16, y = 12. Radius: r = 4. Perimeter = 25.132741. Color: blue
+15: It is Triangle. A-point: x = 17, y = 17. B-point: x = 14, y = 5. C-point: x = 11, y = 15. Perimeter = 29.134179. Color: purple
+16: It is Circle. Center: x = 9, y = 15. Radius: r = 3. Perimeter = 18.849556. Color: blue
+17: It is Circle. Center: x = 18, y = 14. Radius: r = 16. Perimeter = 100.530965. Color: green
+18: It is Triangle. A-point: x = 15, y = 1. B-point: x = 20, y = 8. C-point: x = 4, y = 16. Perimeter = 45.091944. Color: cyan
+19: It is Rectangle. Left top point: x = 18, y = 8. Right bottom point: x = 16, y = 7. Perimeter = 6.000000. Color: blue
+20: It is Rectangle. Left top point: x = 5, y = 2. Right bottom point: x = 9, y = 20. Perimeter = 44.000000. Color: blue
